@@ -53,7 +53,7 @@ rpds-py
 six
 smmap
 stack-data
-streamlit
+streamlit==1.31.1
 tenacity
 toml
 toolz
